@@ -1,3 +1,3 @@
 <h2 style="text-align:center">Meal Delivery Apps using React Native</h2><br/><br/>
-
-![meal delivery apps using react native](https://admin.ninjascode.com/wp-content/uploads/2025/repoImages/Hector/Meal%20Delivery%20Apps%20using%20React%20Native.webp) <br/><br/>The meal delivery apps using react native frontend source code for our solution is completely open source. However, the API and backend is proprietary and can be accessed via a paid license. For more details, <a href="https://enatega.com/?utm_source=github&utm_medium=repo&utm_campaign=hector-meal-delivery-apps-using-react-native" target="_blank">click here</a>.
+ 
+ ![meal delivery apps using react native](https://admin.ninjascode.com/wp-content/uploads/2025/repoImages/Hector/Meal%20Delivery%20Apps%20using%20React%20Native.webp) <br/><br/>The meal delivery apps using react native frontend source code for our solution is completely open source. However, the API and backend is proprietary and can be accessed via a paid license. For more details, <a href="https://enatega.com/hector-meal-delivery-apps-using-react-native" target="_blank">click here</a>.
